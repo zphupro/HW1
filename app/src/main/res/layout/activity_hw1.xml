@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Hw1">
+
+    <TextView
+        android:layout_width="260dp"
+        android:layout_height="229dp"
+
+        android:text="           Phu Xuan Dinh
+        I am 26 year old and i am styding application development
+I am from VIet Nam i studying at north Seattle college i am going to get bachelor degree in north and i am going transwer to
+to finish master and i will work for microsoft"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.403" />
+
+</android.support.constraint.ConstraintLayout>
